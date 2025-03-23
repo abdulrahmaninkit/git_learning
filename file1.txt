@@ -1,2 +1,3 @@
 Hello i am learning git
 This file has been modified.
+This is being updated for the merge command
